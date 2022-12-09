@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=score
+comment1.target=Zombie(int)
+comment2.params=
+comment2.target=int\ getScore()
+numComments=3

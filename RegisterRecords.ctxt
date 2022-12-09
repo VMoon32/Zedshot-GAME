@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RegisterRecords
+comment1.params=
+comment1.target=void\ act()
+comment2.params=userInput\ maxScore
+comment2.target=RegisterRecords(java.lang.String,\ long)
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=listaJugador
+comment4.target=void\ guardar(java.util.List)
+comment5.params=
+comment5.target=java.util.List\ leer()
+numComments=6

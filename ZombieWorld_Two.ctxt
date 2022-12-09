@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ZombieWorld_Two
+comment1.params=
+comment1.target=ZombieWorld_Two()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveZombie()
+comment4.params=
+comment4.target=void\ bounceEdge()
+comment5.params=
+comment5.target=void\ moveWalkL()
+comment6.params=
+comment6.target=void\ moveWalkR()
+numComments=7
