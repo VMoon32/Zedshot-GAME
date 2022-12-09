@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ playMusic()
+comment4.params=
+comment4.target=void\ prepare()
+comment5.params=
+comment5.target=void\ imagesMenu()
+comment6.params=
+comment6.target=void\ moveMenu()
+comment7.params=
+comment7.target=void\ delayCrosshair()
+comment8.params=
+comment8.target=void\ selectActionOfCrosshairAndGun()
+numComments=9

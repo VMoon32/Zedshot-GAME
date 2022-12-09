@@ -1,0 +1,14 @@
+Erik,0
+Erik2,180
+juan,60
+ErikMuchoPoints,1150
+diez,10
+ErikFunciona,190
+Menta,650
+sien,100
+sien,100
+sien,100
+sien,100
+a,40
+o,110
+ErikPrueba5,200

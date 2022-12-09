@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CrosshairLabel
+comment1.params=world
+comment1.target=CrosshairLabel(java.lang.String)
+comment2.params=
+comment2.target=void\ moveOrActivate()
+comment3.params=
+comment3.target=void\ rotate()
+comment4.params=
+comment4.target=void\ rotateInGame()
+numComments=5

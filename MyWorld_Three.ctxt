@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyWorld_Three
+comment1.params=
+comment1.target=MyWorld_Three()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=long\ getZPoints()
+comment4.params=
+comment4.target=void\ delayZombie()
+comment5.params=
+comment5.target=void\ prepare()
+comment6.params=
+comment6.target=void\ platformsAir()
+comment7.params=changeX
+comment7.target=void\ changeBackgroundX(int)
+comment8.params=
+comment8.target=void\ drawBackground()
+comment9.params=
+comment9.target=java.util.List\ giveMeAllActors()
+numComments=10

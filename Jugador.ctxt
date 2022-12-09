@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=
+comment1.target=void\ act()
+comment2.params=nombre\ maxScore
+comment2.target=Jugador(java.lang.String,\ long)
+comment3.params=
+comment3.target=Jugador()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=long\ getMaxScore()
+numComments=6
