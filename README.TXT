@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Z E D S H O T
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: GAME ZEDSHOT
+PURPOSE OF PROJECT: Undestanding Java and Greenfoot enviroment into a game.
+VERSION or DATE: 09/12/2022
+HOW TO START THIS PROJECT: Download All
+AUTHORS: Erik Vital Muñoz
+Music Finder: Christian Chavez
+USER INSTRUCTIONS: Play de game and enjoy!
