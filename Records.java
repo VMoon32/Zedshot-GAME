@@ -30,7 +30,7 @@ public class Records extends World
                 points=listaJugador.get(i).getMaxScore();
                 Jugador imprimeJugador = new Jugador();
                 imprimeJugador.setImage(new GreenfootImage(""+text+" - "+points+" points ",30,Color.WHITE,Color.BLACK));
-                addObject(imprimeJugador,450,250+(50*i));
+                addObject(imprimeJugador,450,150+(50*i));
             }
         }else{
             int x=0;
